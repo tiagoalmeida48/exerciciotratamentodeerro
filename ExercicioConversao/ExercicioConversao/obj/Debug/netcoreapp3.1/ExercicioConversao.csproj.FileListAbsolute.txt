@@ -1,0 +1,13 @@
+C:\Users\Tiago\source\repos\ExercicioConversao\ExercicioConversao\bin\Debug\netcoreapp3.1\ExercicioConversao.exe
+C:\Users\Tiago\source\repos\ExercicioConversao\ExercicioConversao\bin\Debug\netcoreapp3.1\ExercicioConversao.deps.json
+C:\Users\Tiago\source\repos\ExercicioConversao\ExercicioConversao\bin\Debug\netcoreapp3.1\ExercicioConversao.runtimeconfig.json
+C:\Users\Tiago\source\repos\ExercicioConversao\ExercicioConversao\bin\Debug\netcoreapp3.1\ExercicioConversao.runtimeconfig.dev.json
+C:\Users\Tiago\source\repos\ExercicioConversao\ExercicioConversao\bin\Debug\netcoreapp3.1\ExercicioConversao.dll
+C:\Users\Tiago\source\repos\ExercicioConversao\ExercicioConversao\bin\Debug\netcoreapp3.1\ExercicioConversao.pdb
+C:\Users\Tiago\source\repos\ExercicioConversao\ExercicioConversao\obj\Debug\netcoreapp3.1\ExercicioConversao.csproj.AssemblyReference.cache
+C:\Users\Tiago\source\repos\ExercicioConversao\ExercicioConversao\obj\Debug\netcoreapp3.1\ExercicioConversao.AssemblyInfoInputs.cache
+C:\Users\Tiago\source\repos\ExercicioConversao\ExercicioConversao\obj\Debug\netcoreapp3.1\ExercicioConversao.AssemblyInfo.cs
+C:\Users\Tiago\source\repos\ExercicioConversao\ExercicioConversao\obj\Debug\netcoreapp3.1\ExercicioConversao.csproj.CoreCompileInputs.cache
+C:\Users\Tiago\source\repos\ExercicioConversao\ExercicioConversao\obj\Debug\netcoreapp3.1\ExercicioConversao.dll
+C:\Users\Tiago\source\repos\ExercicioConversao\ExercicioConversao\obj\Debug\netcoreapp3.1\ExercicioConversao.pdb
+C:\Users\Tiago\source\repos\ExercicioConversao\ExercicioConversao\obj\Debug\netcoreapp3.1\ExercicioConversao.genruntimeconfig.cache
